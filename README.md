@@ -20,6 +20,17 @@
 
 - Currently work on ⚡<a href="https://github.com/RobertG-H/the-electric-share">The Electric Share</a>⚡
 
-- Co-president and coding instructor @<a href="https://www.facebook.com/UWCoffeeNCode/">UW Coffee 'N Code</a>
+- Co-president and coding instructor <a href="https://www.facebook.com/UWCoffeeNCode/">@UW Coffee 'N Code</a>
 
 - Learning 日本語
+
+### I love to make games
+*Check out some of my projects*
+
+* <a href="https://github.com/RobertG-H/the-electric-share">The Electric Share</a>
+* <a href="https://github.com/RobertG-H/s20-gi-jam">Rail Tale</a>
+* <a href="https://github.com/RobertG-H/scorespace-game-jam">Pizza Mizza</a>
+* <a href="https://github.com/RobertG-H/maki-bot-discord">Maki Bot (Discord Bot)</a>
+* <a href="https://github.com/RobertG-H/reconstruction-obstruction">Reconstruction Obstruction</a>
+* <a href="https://github.com/RobertG-H/Jawg">Jawg</a>
+
