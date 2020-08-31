@@ -10,8 +10,16 @@
 <img align="right" width=50% src="https://github.com/RobertG-H/RobertG-H/blob/master/squat.png" />
 
 ### I'm Robert Graham-Hu
+- Software Developer
+
+- Focused on code design and architecture
+
 - Systems Design Engineering Student
 
-- Hobbiest game developer currently work on ⚡<a href="https://github.com/RobertG-H/the-electric-share">The Electric Share</a>⚡
+- Hobbiest game developer 
+
+- Currently work on ⚡<a href="https://github.com/RobertG-H/the-electric-share">The Electric Share</a>⚡
 
 - Co-president and coding instructor @<a href="https://www.facebook.com/UWCoffeeNCode/">UW Coffee 'N Code</a>
+
+- Learning 日本語
