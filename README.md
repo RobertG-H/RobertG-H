@@ -27,7 +27,7 @@
 ### I love to make games
 *Check out some of my projects*
 
-* <a href="https://github.com/RobertG-H/the-electric-share">The Electric Share</a>
+* <a href="https://github.com/RobertG-H/the-electric-share">Charge Champs</a>
 * <a href="https://github.com/RobertG-H/s20-gi-jam">Rail Tale</a>
 * <a href="https://github.com/RobertG-H/scorespace-game-jam">Pizza Mizza</a>
 * <a href="https://github.com/RobertG-H/maki-bot-discord">Maki Bot (Discord Bot)</a>
