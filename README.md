@@ -18,7 +18,7 @@
 
 - Hobbiest game developer 
 
-- Currently work on ⚡<a href="https://github.com/RobertG-H/the-electric-share">The Electric Share</a>⚡
+- Currently work on ⚡<a href="https://github.com/RobertG-H/the-electric-share">Charge Champs</a>⚡
 
 - Co-president and coding instructor <a href="https://www.facebook.com/UWCoffeeNCode/">@UW Coffee 'N Code</a>
 
