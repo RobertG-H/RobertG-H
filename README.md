@@ -16,7 +16,7 @@
 
 - Systems Design Engineering Student
 
-- Hobbiest game developer 
+- Hobbyist game developer 
 
 - Currently work on ⚡<a href="https://store.steampowered.com/app/1528900/Charge_Champs/">Charge Champs</a>⚡
 
