@@ -14,7 +14,7 @@
 
 - Focused on code design and architecture
 
-- Systems Design Engineering Student
+- Systems Design Engineering LEGEND
 
 - Hobbyist game developer 
 
